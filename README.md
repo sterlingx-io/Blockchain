@@ -1,1 +1,1 @@
-# SterlingX - Proof of Burn - Blockchain
+# Proof of Burn - Blockchain
