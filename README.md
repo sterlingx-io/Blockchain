@@ -1,1 +1,1 @@
-echo # SterlingX - Proof of Burn - Blockchain
+# SterlingX - Proof of Burn - Blockchain
